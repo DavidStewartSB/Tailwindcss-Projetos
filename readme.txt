@@ -1,6 +1,6 @@
-<h1>Olá intruso<h1>
+Olá intruso
 
-<h3>Abaixo estão os links dos projetos desenvolvidos:</h3>
+Abaixo estão os links dos projetos desenvolvidos:
 
 -Amazon: https://thick-game.surge.sh
 -Página de login do Facebook: https://untidy-cellar.surge.sh
